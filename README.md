@@ -1,6 +1,6 @@
 # Jordan Henning
 
-**AI delivery leader who ships. I spent 17 years in U.S. federal service — nearly a decade of it leading IT delivery, including $200M+ in IT projects delivered and a GS-14 Branch Chief role setting IT governance across 170 offices — and I now personally architect and ship production multi-agent AI systems.**
+**AI delivery leader who ships. I spent 17 years in U.S. federal service — nearly a decade of it leading IT delivery, including $200M+ in IT projects delivered and a GS-14 Branch Chief role setting IT governance across 170 offices — and I now personally architect and build multi-agent AI systems.**
 
 Most people in my lane can either lead delivery *or* build. I do both: I know how to run a multi-tier team that ships safe, high-quality software on a deadline, and I write the agentic AI that does the work. The systems below are production systems I designed and built end to end.
 
