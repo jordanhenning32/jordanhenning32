@@ -28,7 +28,7 @@ Applied **agentic AI / LLM systems** — multi-agent orchestration, RAG, multi-p
 - **U.S. Army combat veteran** — 101st Airborne, Iraq.
 - **MBA** · **AWS Certified AI Practitioner**
 - **Clearance:** Public Trust — eligible for reinstatement.
-- **Co-owner & Chief Growth Officer**, Quadratic Digital LLC (SDVOSB federal IT services firm).
+- **Co-owner & Chief Growth Officer**, Quadratic Digital LLC 
 
 ### 🎯 Focus
 
