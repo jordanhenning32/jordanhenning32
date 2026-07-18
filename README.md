@@ -1,6 +1,6 @@
 # Jordan Henning
 
-**AI delivery leader who ships. I spent 17 years in U.S. federal service — nearly a decade of it leading IT delivery, including a $200M project portfolio and a GS-14 Branch Chief role setting IT governance across 170 offices — and I now personally architect and ship production multi-agent AI systems.**
+**AI delivery leader who ships. I spent 17 years in U.S. federal service — nearly a decade of it leading IT delivery, including $200M+ in IT projects delivered and a GS-14 Branch Chief role setting IT governance across 170 offices — and I now personally architect and ship production multi-agent AI systems.**
 
 Most people in my lane can either lead delivery *or* build. I do both: I know how to run a multi-tier team that ships safe, high-quality software on a deadline, and I write the agentic AI that does the work. The systems below are production systems I designed and built end to end.
 
@@ -24,7 +24,7 @@ Applied **agentic AI / LLM systems** — multi-agent orchestration, RAG, multi-p
 
 ### 🎖️ Background
 
-- **17 years U.S. federal service (SSA); ~9 years leading IT delivery** (10 including Quadratic). GS-14 Branch Chief — 12 direct reports including 2 team leads; IT governance across 170 field offices. Earlier: IT Project Manager who delivered **~$200M** in IT projects.
+- **17 years U.S. federal service (SSA); ~9 years leading IT delivery** (10 including Quadratic). GS-14 Branch Chief — 12 direct reports including 2 team leads; IT governance across 170 field offices. Earlier: IT Project Manager who delivered **$200M+** in IT projects (cumulative, on-time / under-budget).
 - **U.S. Army combat veteran** — 101st Airborne, Iraq.
 - **MBA** · **AWS Certified AI Practitioner**
 - **Clearance:** Public Trust — eligible for reinstatement.
