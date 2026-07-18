@@ -27,11 +27,11 @@ Applied **agentic AI / LLM systems** — multi-agent orchestration, RAG, multi-p
 - **17 years U.S. federal service (SSA); ~9 years leading IT delivery** (10 including Quadratic). GS-14 Branch Chief — 12 direct reports including 2 team leads; IT governance across 170 field offices. Earlier: IT Project Manager who delivered **$200M+** in IT projects (cumulative, on-time / under-budget).
 - **U.S. Army combat veteran** — 101st Airborne, Iraq.
 - **MBA** · **AWS Certified AI Practitioner**
-- **Clearance:** Public Trust — eligible for reinstatement.
+- **Public Trust:** Tier 4 background investigation (2008–2025), eligible to reinstate.
 - **Co-owner & Chief Growth Officer**, Quadratic Digital LLC 
 
 ### 🎯 Focus
 
-Leading **AI delivery / engineering teams** that build production agentic systems — federal/GovCon or commercial, remote or DC-corridor.
+**AI delivery leadership (player-coach)** — I build the production AI and lead the delivery, and I'm ready to lead the engineering team that ships it. Federal/GovCon or commercial, remote or DC-corridor.
 
 📍 York, PA · 🌐 [jordanhenning.com](https://jordanhenning.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jordan-henning-144b47398/)
